@@ -1,0 +1,26 @@
+{
+  "grupo": "G02",
+  "operacion": "Kallpa Copper",
+  "zip_fuente": "GEM_S04_6_Visualizadores_Alternativas_v0.4.1_DOCENTE.zip",
+  "zip_sha256": "8d7cd6e629d8b01c233a7b3fe040cac02a0f4822c9f1a40e0064653f6052298b",
+  "html_fuente": "GEM_S04_G02_Kallpa_Copper_Alternativas_v0.4.1.html",
+  "html_s04_sha256": "6a969b703562430c58318c79615ce2cdb9cf33d06ae3d44607816cd1f8e7759f",
+  "html_s11_original_sha256": "b35f33cbba2a188147f009f152710cefde6b66529e9bb10b8c6af42ea431cecd",
+  "base_del_motor_s04": {
+    "group": "G02",
+    "days": 30,
+    "processed_t_month": 814342,
+    "processed_tpd": 27144.733333333334,
+    "crushed_t_month": 817399,
+    "head_grade_fraction": 0.008170599431742519,
+    "recovery_fraction": 0.8989811260951297,
+    "recovery_target_fraction": 0.905,
+    "plant_target_tpd": 29000,
+    "min_design_tpd": 31000.0,
+    "opex_kusd_month": 22259.7423474,
+    "processing_variable_kusd_month": 8636.2597784,
+    "crushed_buffer_start_t": 35000.0,
+    "crushed_buffer_capacity_t": 150000.0,
+    "source": "D01–D03 oficiales, S04; escenarios A/B/C hipotéticos y editables"
+  }
+}
